@@ -1,0 +1,37 @@
+{
+  "name": "react-bootstrap",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "react bootstrap tutorial",
+  "author": "Michael D. Prince",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wotboy/Tutorials.git"
+  },
+  "keywords": [
+    "rest",
+    "hateoas",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/wotboy/Tutorials/issues"
+  },
+  "homepage": "https://github.com/wotboy/Tutorials",
+
+
+  "dependencies": {
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-bootstrap": "^0.30.10",
+    "webpack": "^2.4.1"
+  },
+
+
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
